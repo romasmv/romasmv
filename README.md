@@ -12,7 +12,8 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
 - 🤝 Open to freelance/part-time collaborations
 
 ## 🎓 Education
-- I completed a Full-Stack Development program at the Baltic Institute of Technology and I’m highly motivated to build a career as a software developer
+- **Full-Stack Development Program** – Baltic Institute of Technology (BIT)
+  - Focus: JavaScript, React, Node.js, SQL, REST APIs, responsive web design
 
 
 ---
