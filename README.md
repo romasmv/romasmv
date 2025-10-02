@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I’m Roman</h1>
 
-A junior full-stack web developer focused on clean, maintainable code and user-friendly solutions.  
+A full-stack web developer focused on clean, maintainable code and user-friendly solutions.  
 Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.js/Express**, **SQL**, and **REST APIs**.
 
 ---
