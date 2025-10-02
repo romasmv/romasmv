@@ -29,8 +29,8 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
 
 ## 📊 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=romasmv&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=romasmv&show_icons=true&bg_color=f5f5f5&title_color=333333&text_color=444444&icon_color=4c71f2" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=romasmv&show_icons=true&bg_color=f5f5f5&title_color=333333&text_color=444444&icon_color=4c71f2&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romasmv&layout=compact&bg_color=f5f5f5&title_color=333333&text_color=444444&icon_color=4c71f2&langs_count=8" />
 </p>
 
 
