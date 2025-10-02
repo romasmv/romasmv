@@ -6,9 +6,10 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
 ---
 
 ## 🧑‍💻 About me
-- 🛠️ I like building **fast, accessible** front-ends and **robust** back-ends  
-- 📦 Prefer **clear structure**, reusable components, and meaningful commits  
-- 🚀 Always learning: performance, testing, and good DX  
+- 🛠️ I like building **fast, accessible** front-ends and **robust** back-ends
+- 📦 Prefer **clear structure**, reusable components, and meaningful commits
+- 🚀 Always learning: performance, testing, and good DX
+- 🌍 I also create **modern websites with WordPress + Elementor + WooCommerce**
 - 🤝 Open to freelance/part-time collaborations
 
 ## 🎓 Education
@@ -29,6 +30,12 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+## 🔧 Tech Stack
+- **Front-end:** HTML5, CSS3, JavaScript, React  
+- **Back-end:** Node.js, Express, SQL  
+- **CMS:** WordPress (Elementor, WooCommerce)  
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
