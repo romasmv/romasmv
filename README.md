@@ -9,8 +9,10 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
 - 🛠️ I like building **fast, accessible** front-ends and **robust** back-ends  
 - 📦 Prefer **clear structure**, reusable components, and meaningful commits  
 - 🚀 Always learning: performance, testing, and good DX  
-- 🤝 Open to freelance/part-time collaborations  
-- 🎓 I completed a Full-Stack Development program at the Baltic Institute of Technology and I’m highly motivated to build a career as a software developer
+- 🤝 Open to freelance/part-time collaborations
+
+## 🎓🧑‍💻 Aducation
+- I completed a Full-Stack Development program at the Baltic Institute of Technology and I’m highly motivated to build a career as a software developer
 
 
 ---
