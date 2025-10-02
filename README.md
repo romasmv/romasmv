@@ -33,7 +33,6 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romasmv&layout=compact&bg_color=f5f5f5&title_color=333333&text_color=444444&icon_color=4c71f2&langs_count=8" />
 </p>
 
-![Grade](https://img.shields.io/badge/Grade-A-brightgreen?style=for-the-badge)
 
 ---
 
