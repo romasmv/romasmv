@@ -30,6 +30,7 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 - **Front-end:** HTML5, CSS3, JavaScript, React  
 - **Back-end:** Node.js, Express, SQL  
 - **CMS:** WordPress (Elementor, WooCommerce)  
