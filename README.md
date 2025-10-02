@@ -43,6 +43,26 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
 
 ---
 
+## 💻 My Projects
+
+### [Optech Website](https://romasmv.github.io/55-grupe-optech/)
+Asmeninis projektas, sukurtas mokantis front-end technologijų.  
+➡️ Fokusas: struktūra, responsive dizainas, paprastos animacijos.
+
+---
+
+### [Sofax Website](https://romasmv.github.io/55-grupe-sofax/)
+Pilnai savarankiškai tvarkytas projektas pagal komandinį šabloną.  
+➡️ Fokusas: didesnio masto svetainės struktūra, komponentų tvarka, Git valdymas.
+
+---
+
+### [Personal Portfolio](https://romasmv.github.io/55-grupe-personal/)
+Asmeninis portfolio, skirtas mano darbams pristatyti.  
+➡️ Fokusas: aiškus kodas, projektų integracija, GitHub Pages publikavimas.
+
+---
+
 ## 🔗 Pinned projects
 <sub>Check out my pinned projects below – they showcase my progress in full-stack development.</sub>
 
