@@ -39,7 +39,7 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
 ## 📫 Contact me
 - Email: **morozovas@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/roman-morozov1**  
-- Portfolio: *(in progress, coming soon!)*  
+- Phone: +37067778890  
 
 ---
 
