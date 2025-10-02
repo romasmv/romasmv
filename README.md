@@ -10,11 +10,7 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
 - 📦 Prefer **clear structure**, reusable components, and meaningful commits  
 - 🚀 Always learning: performance, testing, and good DX  
 - 🤝 Open to freelance/part-time collaborations  
-- 🎓 I completed a **Full-Stack Development** program at the 
-<a href="https://bit.lt/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_BIT.png/320px-Logo_BIT.png" alt="BIT" height="25"/>
-</a> 
-and I’m highly motivated to build a career as a software developer.
+- 🎓 I completed a Full-Stack Development program at the Baltic Institute of Technology and I’m highly motivated to build a career as a software developer
 
 
 ---
