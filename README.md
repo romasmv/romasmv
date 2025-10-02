@@ -11,7 +11,7 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
 - 🚀 Always learning: performance, testing, and good DX  
 - 🤝 Open to freelance/part-time collaborations
 
-## 🎓 Aducation
+## 🎓 Education
 - I completed a Full-Stack Development program at the Baltic Institute of Technology and I’m highly motivated to build a career as a software developer
 
 
