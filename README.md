@@ -33,14 +33,14 @@ Currently sharpening my skills in **JavaScript/TypeScript**, **React**, **Node.j
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romasmv&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
-<!-- papildomai (neprivaloma): „streak“ kortelė -->
-<!-- <img height="160" src="https://streak-stats.demolab.com?user=romasmv&theme=tokyonight" /> -->
+[<!-- papildomai (neprivaloma): „streak“ kortelė -->
+<!-- <img height="160" src="https://streak-stats.demolab.com?user=romasmv&theme=tokyonight" /> -->](https://www.linkedin.com/in/roman-morozov1/)
 
 ---
 
 ## 📫 Contact me
 - Email: **morozovas@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/romanmorozov**  <!-- kai susikursi LinkedIn, pakeisi tikru linku -->
+- LinkedIn: **https://www.linkedin.com/in/roman-morozov1**  
 - Portfolio: *(in progress, coming soon!)*  
 
 ---
